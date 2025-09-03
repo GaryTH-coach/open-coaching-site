@@ -1,34 +1,34 @@
 +++
-title = "About Me"
-description = "Leadership coach, strategist, and education consultant focused on clarity, reflection, and systemic change."
-type = "about"
++++
+title = "About"
+description = "Leadership coaching and development grounded in relational practice."
 +++
 
-## About Me
+I’m Gary Handforth. I coach and develop school leaders through **relational practice**—belonging, trust and honest challenge—so people can do their best work together.
 
-I'm Gary Handforth — a leadership coach, strategist, and educational consultant with over two decades of experience shaping schools and systems to better serve learners and communities.
+Before coaching, I worked across the system as a **teacher**, **headteacher**, **executive headteacher** and **Director of Education** in a multi-academy trust. That arc keeps my work practical and rooted in real school life.
 
-My approach is rooted in openness, reflection, and connection. I don’t bring off-the-shelf answers. Instead, I work with you to uncover new perspectives, challenge assumptions, and build clarity in complexity. Whether supporting a school leadership team, designing a coaching culture, or exploring AI’s role in decision-making, I aim to provoke meaningful, grounded change.
+My approach is shaped by a **BA (Hons) in Psychology** and an **MA in Process Consultancy**: clear thinking, careful listening, and disciplined follow-through.
 
----
+## What I do now
+- **1–to–1 coaching** for heads, deputies and emerging leaders  
+- **Leadership development & training** for school and trust teams  
+- A **SEND Peer Review (pilot)** applying a relational lens to provision
 
-## Affiliations & Roles
+## How we’ll work
+- **Relational first:** build trust and belonging, then do the hard work.  
+- **Candid + kind:** clear feedback, never performative.  
+- **Context-aware:** tailored to your school’s constraints and strengths.  
+- **Doable next steps:** small moves that compound into change.
 
-- **Fellow**, Royal Society of Arts (FRSA)  
-- **Associate**, Leeds Beckett University  
-- **Chair of Governors**, Special School, Manchester  
-- **Member**, University of Manchester AI Roundtable  
-- **Member**, Rethinking Leadership  
-- **Former Trustee**, Challenge Partners  
+## A recent example
+**Coaching a new head across their first two terms.**  
+We clarified purpose, redesigned SLT routines, and established steady staff conversations. Governors reported clearer direction; the team reported “less noise, more progress.” *(Anonymised; details on request.)*
 
----
+## Selected affiliations
+FRSA · Associate, Leeds Beckett University · Chair of Governors (Special School, Manchester) · Member, University of Manchester AI Roundtable · former Trustee, Challenge Partners
 
-## As a Speaker and Facilitator
+## Credentials (concise)
+BA (Hons) Psychology · MA Process Consultancy · NPQH · NPQEL
 
-I speak at national conferences and roundtables on AI in education, leadership, and ethical innovation. My sessions invite critical thinking and constructive discomfort — always with a view to impact and inclusion.
-
----
-
-## Philosophy
-
-I believe leadership is relational, not hierarchical; adaptive, not rigid. I draw from process consultancy, systems thinking, and posthumanist philosophy to create learning environments where people flourish and systems evolve.
+*If you’d like to talk through coaching or the SEND Peer Review pilot, please get in touch via the contact page.*
