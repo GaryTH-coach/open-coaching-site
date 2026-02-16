@@ -9,7 +9,11 @@ _Open Coaching and Consultancy offers tailored support for people and organisati
 
 ## 🌱 1:1 Coaching for Growth  
 Reflective sessions that unlock clarity, intention, and purpose.  
+<<<<<<< HEAD
 *Ideal for leaders, creatives, or anyone seeking deeper insight into their work or direction.*
+=======
+*Ideal for anyone seeking deeper insight into their work or direction.*
+>>>>>>> 7107aea (Initial commit)
 
 ---
 
