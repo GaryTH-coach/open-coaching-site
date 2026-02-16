@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}   <!-- This loads the head section including your custom CSS -->
+
+  <body>
+    {{ partial "header.html" . }} <!-- This loads your header/navigation -->
+    
+    <main>
+      {{ block "main" . }}{{ end }} <!-- This loads your page content -->
+    </main>
+
+    {{ partial "footer.html" . }} <!-- Optional: loads your footer -->
+  </body>
+</html>
