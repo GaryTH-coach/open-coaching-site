@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://garyth-coach.github.io/open-coaching-site/"
 languageCode = "en-us"
 title = "Open Coaching & Consultancy"
 theme = "ananke"

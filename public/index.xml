@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Coaching and Consultancy on Open Coaching &amp; Consultancy</title>
-    <link>/</link>
+    <link>https://garyth-coach.github.io/open-coaching-site/</link>
     <description>Recent content in Open Coaching and Consultancy on Open Coaching &amp; Consultancy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://garyth-coach.github.io/open-coaching-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>https://garyth-coach.github.io/open-coaching-site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://garyth-coach.github.io/open-coaching-site/about/</guid>
       <description>&lt;h2 id=&#34;-head&#34;&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&lt;/h2&gt;&#xA;&lt;h2 id=&#34;title-about&#34;&gt;title: &amp;ldquo;About&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;I’m Gary Handforth — a leadership coach, strategist, and educational consultant with over two decades of experience shaping schools and systems to better serve learners and communities.&lt;/p&gt;&#xA;&lt;p&gt;My approach is rooted in openness, reflection, and connection. I don’t bring off-the-shelf answers. Instead, I work with you to uncover new perspectives, challenge assumptions, and build clarity in complexity. Whether supporting a school leadership team, designing a coaching culture, or exploring AI’s role in decision-making, I aim to provoke meaningful, grounded change.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>/blog/</link>
+      <link>https://garyth-coach.github.io/open-coaching-site/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/blog/</guid>
+      <guid>https://garyth-coach.github.io/open-coaching-site/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Services</title>
-      <link>/services/</link>
+      <link>https://garyth-coach.github.io/open-coaching-site/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/services/</guid>
+      <guid>https://garyth-coach.github.io/open-coaching-site/services/</guid>
       <description>&lt;p&gt;&lt;em&gt;Open Coaching and Consultancy offers tailored support for people and organisations navigating complexity, change, and growth.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-11-coaching-for-growth&#34;&gt;🌱 1:1 Coaching for Growth&lt;/h2&gt;&#xA;&lt;h1 id=&#34;ideal-for-school-leaders-or-anyone-seeking-deeper-insight-into-their-work-or-direction&#34;&gt;Reflective sessions that unlock clarity, intention, and purpose.&lt;br&gt;&#xA;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&#xA;&lt;em&gt;Ideal for school leaders or anyone seeking deeper insight into their work or direction.&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Ideal for anyone seeking deeper insight into their work or direction.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;7107aea (Initial commit)&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-team-development&#34;&gt;🌀 Team Development&lt;/h2&gt;&#xA;&lt;p&gt;Dialogue-based facilitation to strengthen relationships, emotional intelligence, and collaborative capacity.&lt;br&gt;&#xA;&lt;em&gt;Because thriving teams think together — not just work together.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
