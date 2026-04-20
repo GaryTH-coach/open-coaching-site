@@ -1,7 +1,7 @@
 +++
 title = "Open Coaching and Consultancy"
 description = "Empowering Growth Through Insightful Coaching, Problem Solving, and Strategy"
-type = "homepage"
+
 +++
 
 # Open Coaching and Consultancy
