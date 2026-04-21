@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://opencoachingandconsultancy.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://opencoachingandconsultancy.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://opencoachingandconsultancy.com/about/</guid>
-      <description>&lt;h2 id=&#34;-head&#34;&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&lt;/h2&gt;&#xA;&lt;h2 id=&#34;title-about&#34;&gt;title: &amp;ldquo;About&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;I’m Gary Handforth — a leadership coach, strategist, and educational consultant with over two decades of experience shaping schools and systems to better serve learners and communities.&lt;/p&gt;&#xA;&lt;p&gt;My approach is rooted in openness, reflection, and connection. I don’t bring off-the-shelf answers. Instead, I work with you to uncover new perspectives, challenge assumptions, and build clarity in complexity. Whether supporting a school leadership team, designing a coaching culture, or exploring AI’s role in decision-making, I aim to provoke meaningful, grounded change.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Gary Handforth — a leadership coach, strategist, and educational consultant with over two decades of experience shaping schools and systems to better serve learners and communities.&lt;/p&gt;&#xA;&lt;p&gt;My approach is rooted in openness, reflection, and connection. I don&amp;rsquo;t bring off-the-shelf answers. Instead, I work with you to uncover new perspectives, challenge assumptions, and build clarity in complexity. Whether supporting a school leadership team, designing a coaching culture, or exploring AI&amp;rsquo;s role in decision-making, I aim to provoke meaningful, grounded change.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
