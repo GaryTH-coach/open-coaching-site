@@ -38,4 +38,4 @@ Creative exploration and structured thinking to help you see things differently.
 ---
 
 ## 💬 Ready to Work Together?  
-Feel free to [get in touch](/contact/) to explore how we can shape something that fits your context.
+Feel free to [get in touch](mailto:gary@opencoachingandconsultancy.com) to explore how we can shape something that fits your context.
