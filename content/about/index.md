@@ -24,4 +24,4 @@ I speak at national conferences and roundtables on AI in education, leadership, 
 
 ## Philosophy
 
-I believe leadership is relational, not hierarchical; adaptive, not rigid. I draw from process consultancy, systems thinking, and posthumanist philosophy to create learning environments where people flourish and systems evolve.
+I believe leadership is relational, not hierarchical; adaptive, not rigid. I help create learning environments where people flourish and systems evolve through reflection, dialogue, and collective intelligence.
