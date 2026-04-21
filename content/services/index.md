@@ -9,11 +9,7 @@ _Open Coaching and Consultancy offers tailored support for people and organisati
 
 ## 🌱 1:1 Coaching for Growth  
 Reflective sessions that unlock clarity, intention, and purpose.  
-<<<<<<< HEAD
 *Ideal for school leaders or anyone seeking deeper insight into their work or direction.*
-=======
-*Ideal for anyone seeking deeper insight into their work or direction.*
->>>>>>> 7107aea (Initial commit)
 
 ---
 
@@ -37,10 +33,9 @@ Thought partnership on complex educational and organisational challenges.
 
 ## 🛠️ Problem-Solving & Design Thinking  
 Creative exploration and structured thinking to help you see things differently.  
-*When linear approaches aren’t enough.*
+*When linear approaches aren't enough.*
 
 ---
 
-## 💬 Ready to Work Together?
-
+## 💬 Ready to Work Together?  
 Feel free to [get in touch](/contact/) to explore how we can shape something that fits your context.
