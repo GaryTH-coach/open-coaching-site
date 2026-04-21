@@ -1,4 +1,4 @@
-baseURL = "https://garyth-coach.github.io/open-coaching-site/"
+baseURL = "https://opencoachingandconsultancy.com/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Open Coaching & Consultancy"
